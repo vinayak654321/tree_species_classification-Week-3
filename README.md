@@ -1,4 +1,4 @@
-# 🌳 Tree Species Classification - Deep Learning Project
+ Tree Species Classification - Deep Learning Project
 
 This is a Deep Learning web application that classifies tree species based on the uploaded leaf or tree image using a Convolutional Neural Network (CNN).
 
@@ -6,13 +6,13 @@ This is a Deep Learning web application that classifies tree species based on th
 
 ---
 
-## 🔍 Problem Statement
+  Problem Statement
 
 Accurate tree species classification plays a crucial role in forestry, biodiversity conservation, and agriculture. Manual identification is time-consuming and error-prone. This project aims to build an AI-based classifier to automate the species identification process using image recognition.
 
 ---
 
-## 🎯 Objectives
+  Objectives
 
 - Train a CNN model on a custom tree species image dataset.
 - Build an intuitive frontend using Streamlit.
@@ -20,7 +20,7 @@ Accurate tree species classification plays a crucial role in forestry, biodivers
 
 ---
 
-## 🛠️ Tools and Technologies Used
+ Tools and Technologies Used
 
 - **Python**
 - **TensorFlow & Keras**
@@ -33,7 +33,7 @@ Accurate tree species classification plays a crucial role in forestry, biodivers
 
 ---
 
-## 🧠 Model Summary
+ Model Summary
 
 - Input Shape: `180x180x3`
 - Model Type: CNN (Sequential)
@@ -42,13 +42,13 @@ Accurate tree species classification plays a crucial role in forestry, biodivers
 
 ---
 
-## 🖼️ Output Screenshot
+ Output Screenshot
 
 ![App Output](https://imgur.com/your-image-link.jpg) <!-- Replace with actual screenshot -->
 
 ---
 
-## 🚀 How to Run the App Locally
+  How to Run the App Locally
 
 ```bash
 git clone https://github.com/vinayak654321/tree_species_classification-Week-3.git
